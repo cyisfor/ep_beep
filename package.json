@@ -1,0 +1,9 @@
+{
+  "name": "ep_beep",
+  "version": "0.0.1",
+  "description": "Beeps when something happens.",
+  "author": "",
+  "contributors": [],
+  "dependencies": {},
+  "engines": {}
+}

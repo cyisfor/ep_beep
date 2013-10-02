@@ -1,0 +1,11 @@
+{
+  "parts": [
+    {
+      "name": "ep_beep",
+      "hooks": {
+        "postAceInit" : "ep_beep/static/js/beep:doBeep",
+        "documentReady": "ep_beep/static/js/beep:documentReady"
+      }
+    }
+  ]
+}
